@@ -82,5 +82,5 @@ $theList = array(
     'sKxO5Hu'
 );
 $map = List2Map::convert($theList);
-var_dump($map);
+print_r($map);
 */

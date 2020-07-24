@@ -69,18 +69,3 @@ class List2Map {
     }
 
 }
-
-/*
-$theList = array(
-    'controller', 
-    'homesController', 
-    'action', 
-    'edit', 
-    'id', 
-    'aePMM29D8', 
-    'session', 
-    'sKxO5Hu'
-);
-$map = List2Map::convert($theList);
-var_dump($map);
-*/
